@@ -30,7 +30,7 @@ A fast, multithreaded Python CLI tool for extracting data from combo files (`ema
 ## Installation
 
 ```bash
-git clone https://github.com/your-user/ulp-extractor.git
+git clone git@github.com:updh1/ULP-to-Combo.git
 cd ulp-extractor
 python ulp.py
 ```
